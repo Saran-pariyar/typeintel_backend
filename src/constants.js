@@ -1,1 +1,3 @@
-export const DB_NAME = "typeintel"
+module.exports = {
+	DB_NAME: 'typeintel'
+}
